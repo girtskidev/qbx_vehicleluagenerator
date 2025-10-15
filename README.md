@@ -25,6 +25,7 @@ Run the script:
 Bash
 
 python generate_vehicle_lua.py
+
 A window will pop up. Select the main folder that holds all your individual vehicle resource folders.
 
 The script will finish, and two new files will appear in the folder you selected:
